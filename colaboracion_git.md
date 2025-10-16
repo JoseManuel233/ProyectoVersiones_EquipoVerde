@@ -17,5 +17,15 @@ Git mantiene un historial completo de todos los cambios, permitiendo revertir a 
 ### Facilita el Open Source y la Comunidad
 Para proyectos open source, GitHub ofrece hospedaje gratuito, lo que ha impulsado comunidades masivas. Ejemplos reales incluyen repositorios como TensorFlow o React, donde miles de colaboradores aportan mejoras.
 
+## Desventajas Principales
+## Curva de aprendizaje alta
+No todos los integrantes dominan Git, lo que puede causar errores al usar comandos o fusionar ramas.
+
+## Conflictos de fusión (merge conflicts)
+Cuando varios miembros editan el mismo archivo, se pueden generar conflictos difíciles de resolver.
+
+## Dependencia de conexión a Internet
+GitHub requiere conexión para subir o sincronizar cambios, lo que puede limitar el trabajo en zonas sin acceso estable.
+
 ## Conclusiones
 En resumen, Git y GitHub revolucionan el trabajo colaborativo al ofrecer control de versiones robusto, herramientas para revisiones de código y facilidades para la gestión de equipos distribuidos. Estas plataformas no solo reducen errores y aceleran el desarrollo, sino que también fomentan la innovación al permitir contribuciones globales. Su adopción es esencial en la industria del software moderna, ya que mejoran la eficiencia, la comunicación y la calidad general de los proyectos en equipo.
